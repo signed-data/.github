@@ -8,7 +8,7 @@ I was building an AI-powered SAAS and one of the requirements was to keep a conv
 
 Customized chats to engage the customer near the date we predict he will probably return. It worked well, but I had the idea to use real, factual data to engage these conversations.
 
-This way I would solve two problems. Some platforms are rigid on letting models fill the content of the message, and I would like not only to do cheap talks. With factual data, models can ground the conversation at a very confident level.
+This way I would solve two problems. Some platforms are rigid about letting models fill the content of the message, and I wanted to do more than just small talk. With factual data, models can ground the conversation at a very confident level.
 
 ---
 
