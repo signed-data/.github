@@ -4,7 +4,7 @@
 
 ## The problem first appeared in a Barber Shop
 
-I was building an AI-powered SAAS and one of the requirements was to keep a conversation with the customers, based on details that "the Barber" used to describe that peculiar client on the system.
+I was building an AI-powered SaaS and one of the requirements was to keep a conversation with the customers, based on details that "the Barber" used to describe that peculiar client on the system.
 
 Customized chats to engage the customer near the date we predict he will probably return. It worked well, but I had the idea to use real, factual data to engage these conversations.
 
