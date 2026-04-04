@@ -2,7 +2,7 @@
 
 ---
 
-## The problem first appeared in a Barber Shop
+## The problem first appeared in a barber shop
 
 I was building an AI-powered SaaS and one of the requirements was to keep a conversation with the customers, based on details that "the Barber" used to describe that peculiar client on the system.
 
