@@ -113,6 +113,6 @@ We built this because we believe that the value of AI in consequential decisions
 
 ---
 
-*SignedData.Org is an open standard. The SDKs are MIT-licensed.*  
+*SignedData.Org is an open standard.*  
 *The spec lives at [signed-data.org/spec/CDS-v0.2.0](https://signed-data.org/spec/CDS-v0.2.0)*  
 *The code lives at [github.com/signed-data/cds](https://github.com/signed-data/cds)*
